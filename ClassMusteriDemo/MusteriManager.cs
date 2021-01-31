@@ -19,7 +19,7 @@ namespace ClassMetotDemo
     
         public void List(Musteri[] musteriler) 
         {
-            Console.WriteLine("Müşteiriler : ");
+          Console.WriteLine("Müşteiriler : ");
           foreach (var musteri in musteriler)
             {
                 Console.WriteLine(musteri.Name + " " + musteri.Surname + " " + musteri.Id);
