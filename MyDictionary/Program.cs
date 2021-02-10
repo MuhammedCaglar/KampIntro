@@ -7,7 +7,7 @@ namespace MyDictionary
         static void Main(string[] args)
         {
             MyDictionary<int, string> myDictionary = new MyDictionary<int, string>();
-            myDictionary.Add(123,"Mehmet");
+            myDictionary.Add(123,"Keş");
         }
     }
 }
