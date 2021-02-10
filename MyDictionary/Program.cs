@@ -8,8 +8,6 @@ namespace MyDictionary
         {
             MyDictionary<int, string> myDictionary = new MyDictionary<int, string>();
             myDictionary.Add(123,"Mehmet");
-
-
         }
     }
 }

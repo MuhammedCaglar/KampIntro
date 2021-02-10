@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{4B526587-AE9C-402A-A328-A173623DCDC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{900577D1-CC05-492F-A82F-5A31F011D1EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{900577D1-CC05-492F-A82F-5A31F011D1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{F173BC45-C458-4617-8C82-0F6A3F6D8DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{B83B44FD-8FDF-4258-A499-779383F224CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{900577D1-CC05-492F-A82F-5A31F011D1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900577D1-CC05-492F-A82F-5A31F011D1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{900577D1-CC05-492F-A82F-5A31F011D1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F173BC45-C458-4617-8C82-0F6A3F6D8DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F173BC45-C458-4617-8C82-0F6A3F6D8DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F173BC45-C458-4617-8C82-0F6A3F6D8DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F173BC45-C458-4617-8C82-0F6A3F6D8DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83B44FD-8FDF-4258-A499-779383F224CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83B44FD-8FDF-4258-A499-779383F224CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83B44FD-8FDF-4258-A499-779383F224CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83B44FD-8FDF-4258-A499-779383F224CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
